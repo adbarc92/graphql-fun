@@ -1,0 +1,16 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "Strike",
+      "description": "A basic attack",
+      "type": "ALL"
+    },
+    {
+      "id": 2,
+      "name": "Defend",
+      "description": "It's never worthwhile to defend.",
+      "type": "ALL"
+    }
+  ]
+}

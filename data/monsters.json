@@ -1,0 +1,16 @@
+{
+  "monsters": [
+    {
+      "id": 1,
+      "name": "Slime",
+      "description": "Slippery when wet or dry.",
+      "family": "Spirit"
+    },
+    {
+      "id": 2,
+      "name": "Bearman",
+      "description": "Is it a bear or a man?",
+      "family": "Beast"
+    }
+  ]
+}
